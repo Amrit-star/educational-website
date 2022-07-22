@@ -37,7 +37,7 @@ html{
 
 .navigation-list li{
     list-style: none;
-    padding: 26px 30px;
+    padding: 18px 20px;
 }
 
 .navigation-list li a{
@@ -54,7 +54,7 @@ html{
 .rightNav{
     width: 30%;
     text-align: right;
-    padding: 0 23px;
+    padding: 0 30px;
 }
 
 #search{
@@ -100,15 +100,15 @@ html{
 
 }
 .text-big{
-    font-size: 32px;
+    font-size: 26px;
 }
 .text-small{
     font-size: 17px;
 }
 .button{
-    padding: 8px 10px;
-    margin: 7px 3px;
-    font-size: 19px;
+    padding: 6px 8px;
+    margin: 5px 3px;
+    font-size: 18px;
     border: 2px solid rgb(10, 9, 9);
     border-radius: 8px;
     cursor: pointer;
@@ -124,7 +124,7 @@ html{
 
 }
 .button-sm{
-    padding: 6px 10px;
+    padding: 5px 10px;
     vertical-align: middle;
 }
 .button-dark{
@@ -137,7 +137,7 @@ html{
     color: white;
 }
 .section{
-    padding: 35px 0;
+    padding: 20px 0;
     display: flex;
     align-items: center;
     justify-content: space-evenly;
@@ -150,16 +150,16 @@ html{
     flex-direction: row-reverse;
 }
 .sectionTag{
-    padding: 16px 0;
+    padding-top: 12px;
 }
 .paras{
-    padding: 0 25px;
+    padding: 0 20px;
 }
 .thumbnail img{
-    width: 150px;
+    width: 220px;
     border: 2px solid black;
     border-radius: 26px;
-    margin-top: 19px;;
+    margin-top: 15px;;
 
 }
 .sectionSubTag{
