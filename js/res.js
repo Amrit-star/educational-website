@@ -1,6 +1,6 @@
 burger = document.querySelector('.burger')
-navbar = document.querySelector('.navbar')
-navList = document.querySelector('.nav-list')
+navbar = document.querySelector('.navigationbar')
+navList = document.querySelector('.navigation-list')
 rightNav = document.querySelector('.rightNav')
 
 burger.addEventListener('click', ()=>{
