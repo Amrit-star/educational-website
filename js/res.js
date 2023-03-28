@@ -1,3 +1,6 @@
+const date = document.getElementById("date");
+date.innerHTML = new Date().getFullYear();
+
 burger = document.querySelector('.burger')
 navbar = document.querySelector('.navigationbar')
 navList = document.querySelector('.navigation-list')
